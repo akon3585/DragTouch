@@ -1,6 +1,6 @@
 {
-  "name": "drag-touch",
-  "version": "1.0.1",
+  "name": "vue3-drag-touch",
+  "version": "1.0.2",
   "description": "适用vue3,在body范围内可拖动指定dom,并自动吸入左右边",
   "main": "index.js",
   "keywords": [
