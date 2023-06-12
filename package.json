@@ -1,0 +1,28 @@
+/*
+ * @Author: CBB
+ * @Date: 2023-06-12 14:56:02
+ * @LastEditTime: 2023-06-12 15:05:33
+ * @LastEditors: CBB
+ * @Description: 
+ * @FilePath: \DragTouch\package.json
+ */
+{
+  "name": "drag-touch",
+  "version": "1.0.0",
+  "description": "适用vue3,在body范围内可拖动指定dom,并自动吸入左右边",
+  "main": "index.js",
+  "keywords": [
+    "touch",
+    "drag",
+    "AssistiveTouch",
+    "subsidiary",
+    "vue3",
+    "directive",
+    "ontouchstart"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cbb_everywhere",
+  "license": "ISC"
+}
